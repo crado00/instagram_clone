@@ -1,0 +1,2 @@
+CREATE DATABASE IF NOT EXISTS instagram_DB;
+USE instagram_DB;
